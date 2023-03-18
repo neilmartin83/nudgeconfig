@@ -1,0 +1,41 @@
+{
+  "osVersionRequirements": [
+    {
+      "aboutUpdateURL": "https://support.apple.com/en-gb/HT213268",
+      "requiredInstallationDate": "2023-02-20T00:00:00Z",
+      "requiredMinimumOSVersion": "13.2.1",
+      "targetedOSVersionsRule": "13"
+    },
+    {
+      "aboutUpdateURL": "https://support.apple.com/en-gb/HT212585",
+      "requiredInstallationDate": "2023-02-20T00:00:00Z",
+      "requiredMinimumOSVersion": "12.6.3",
+      "targetedOSVersionsRule": "12"
+    },
+    {
+      "aboutUpdateURL": "https://support.apple.com/en-gb/HT211896",
+      "requiredInstallationDate": "2023-02-20T00:00:00Z",
+      "requiredMinimumOSVersion": "11.7.4",
+      "targetedOSVersionsRule": "11"
+    }
+  ],
+  "userExperience": {
+    "allowGracePeriods": true,
+    "gracePeriodLaunchDelay": 4,
+  },
+  "userInterface": {
+    "iconDarkPath": "/Library/Application Support/dataJAR/Icons/datajar_mobi@512.png",
+    "iconLightPath": "/Library/Application Support/dataJAR/Icons/datajar_mobi@512.png",
+    "updateElements": [
+      {
+        "_language": "en",
+        "mainContentHeader": "Your device will restart during the update",
+        "mainContentNote": "Important Notes",
+        "mainContentSubHeader": "Updates can take up to 30 minutes to complete",
+        "mainContentText": "To begin the update, click on the Update Device button and follow the steps on-screen.\n\nIf a message is shown that states \"Other updates are available\", click the \n\"More info...\" link underneath to install them.",
+        "mainHeader": "An important update is available for your device",
+        "subHeader": "This update is required by your organisation's security policy."
+      },
+    ]
+  }
+}
