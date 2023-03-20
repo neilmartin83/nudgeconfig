@@ -15,7 +15,7 @@
     {
       "aboutUpdateURL": "https://support.apple.com/en-gb/HT211896",
       "requiredInstallationDate": "2023-02-20T00:00:00Z",
-      "requiredMinimumOSVersion": "11.7.4",
+      "requiredMinimumOSVersion": "11.7.4"
     }
   ],
   "userExperience": {
