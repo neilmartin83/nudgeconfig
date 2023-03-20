@@ -17,6 +17,7 @@
     "gracePeriodLaunchDelay": 4
   },
   "userInterface": {
+    "actionButtonPath" : "/System/Library/PreferencePanes/Softwareupdate.prefpane"
     "iconDarkPath": "/Library/Application Support/dataJAR/Icons/datajar_mobi@512.png",
     "iconLightPath": "/Library/Application Support/dataJAR/Icons/datajar_mobi@512.png",
     "updateElements": [
