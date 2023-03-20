@@ -9,7 +9,7 @@
     {
       "aboutUpdateURL": "https://support.apple.com/en-gb/HT212585",
       "requiredInstallationDate": "2023-02-20T00:00:00Z",
-      "requiredMinimumOSVersion": "12.6.3",
+      "requiredMinimumOSVersion": "12.6.3"
     }
   ],
   "userExperience": {
