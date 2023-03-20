@@ -20,7 +20,7 @@
         "mainContentHeader": "Your device will restart during the update",
         "mainContentNote": "Important Notes",
         "mainContentSubHeader": "Updates can take up to 30 minutes to complete",
-        "mainContentText": "To begin the update, click on the Update Device button and follow the steps on-screen.\n\nIf a message is shown that states \"Other updates are available\", click the \n\"More info...\" link underneath to install them, otherwise select \"Update\/Upgrade Now\".",
+        "mainContentText": "To begin the update, click on the Update Device button and follow the steps on-screen.\n\nIf a message is shown that states \"Other updates are available\", click the \n\"More info...\" link underneath to install them, otherwise select \n\"Update\/Upgrade Now\".",
         "mainHeader": "An important update is available for your device",
         "subHeader": "This update is required by your organisation's security policy."
       }
